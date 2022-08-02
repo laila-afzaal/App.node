@@ -2,5 +2,24 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.18.1"
-  }
+  },
+  "name": "app.node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laila-afzaal/App.node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laila-afzaal/App.node/issues"
+  },
+  "homepage": "https://github.com/laila-afzaal/App.node#readme",
+  "description": ""
 }
