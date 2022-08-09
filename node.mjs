@@ -5,11 +5,11 @@ const app = express ();
 app.use(cors());
 
 app.get('/home', (req,res) => {
-  res.send('I am home page')
+  res.send('I am home page :) ')
 })
 
 app.get('/profile', (req, res) => {
-  res.send('I am profile page')
+  res.send('I am profile page :) ')
 })
 
 app.get('/weather', (req, res) => {
